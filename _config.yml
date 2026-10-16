@@ -5,7 +5,7 @@ lang: zh
 timezone: Asia/Shanghai
 email: ""
 description: 个人主页 of Fragmented_Chaos，欢迎交流。
-baseurl: ""
+baseurl: "/old"
 url: "https://fragmented-chaos.github.io"
 github_username: Fragmented-Chaos
 
